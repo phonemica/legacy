@@ -1,0 +1,22 @@
+{
+  "name": "legacy",
+  "version": "1.0.0",
+  "description": "blog archive viewer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phonemica/legacy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phonemica/legacy/issues"
+  },
+  "homepage": "https://github.com/phonemica/legacy#readme",
+  "dependencies": {
+    "mysql": "^2.15.0"
+  }
+}
